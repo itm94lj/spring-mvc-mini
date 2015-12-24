@@ -1,1 +1,1 @@
-#spring mvc mini
+#spring-mvc-mini
